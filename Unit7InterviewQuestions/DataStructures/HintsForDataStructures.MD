@@ -312,8 +312,7 @@ useful.
 124. 4.4 Actually, you can just have a single checkHeight function that does both the height
 computation and the balance check. An integer return value can be used to indicate
 both.
-125. 4.7 As a totally different approach: Consider doing a depth-first search starting from an arbitrary node. What is the relationship between this depth-first search and a valid build
-order.
+125. 4.7 As a totally different approach: Consider doing a depth-first search starting from an arbitrary node. What is the relationship between this depth-first search and a valid build order.
 126. 2.2 Can you do it iteratively? Imagine if you had two pointers pointing to adjacent nodes
 and they were moving at the same speed through the linked list. When one hits the end
 of the linked list, where will the other be?
